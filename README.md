@@ -1,16 +1,17 @@
-## Hi there 👋
+### Olá, eu sou o Lincoln!
 
-<!--
-**Lincoln-Maximo/Lincoln-Maximo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Depois de mais de 14 anos em TI — passando por suporte técnico, implantação de sistemas ERP e gestão de equipes em ambientes críticos como o setor hospitalar — estou em transição para desenvolvimento de software, com foco em **Python** e **Visão Computacional**.
 
-Here are some ideas to get you started:
+Essa mudança não é do zero: sempre estive perto de código (automações, consultas SQL, um app em Node.js para controle de pedidos hospitalares), mas hoje estou tratando desenvolvimento como profissão, não como ferramenta de apoio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Em que estou focado agora:**
+- Python aplicado a Visão Computacional (OpenCV, YOLO)
+- Backend com FastAPI e PostgreSQL
+- Docker e deploy básico de aplicações
+
+**Projeto em destaque:**
+🔎 [ri-project](https://github.com/Lincoln-Maximo/ri-project) — sistema de visão computacional para segurança do trabalho, com detecção de EPIs em tempo real, reconhecimento facial e dashboard administrativo (Python/FastAPI + React + PostgreSQL).
+
+Estou construindo outros projetos menores e mais focados para consolidar fundamentos de engenharia (testes, CI, deploy) — em progresso.
+
+📫 Contato: [LinkedIn](https://www.linkedin.com/in/lincolnmaximo-74295b218)
